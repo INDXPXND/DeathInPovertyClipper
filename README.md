@@ -1,5 +1,5 @@
 # Death In Poverty Clipper 
-[Uploading image.png…]()
+<img width="566" height="901" alt="image" src="https://github.com/user-attachments/assets/8f3d3a97-6e74-4640-935d-d70e6b6559a5" />
 
 Audio clipper VST3 plugin built with JUCE for true Soundcloud rappers.
 
