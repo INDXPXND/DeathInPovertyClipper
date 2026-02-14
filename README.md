@@ -1,4 +1,5 @@
-# Death In Poverty Clipper
+# Death In Poverty Clipper 
+[Uploading image.png…]()
 
 Audio clipper VST3 plugin built with JUCE for true Soundcloud rappers.
 
@@ -39,5 +40,6 @@ Copy the built plugin to your VST3 folder:
 - **macOS**: `~/Library/Audio/Plug-Ins/VST3/`
 
 ## Credits
+
 
 Built with [JUCE](https://juce.com/) and [ClaudeAI](https://claude.ai/)
