@@ -1,6 +1,6 @@
 # Death In Poverty Clipper
 
-Professional audio clipper VST3 plugin built with JUCE.
+Audio clipper VST3 plugin built with JUCE for true Soundcloud rappers.
 
 ## Features
 
