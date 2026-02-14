@@ -38,10 +38,6 @@ Copy the built plugin to your VST3 folder:
 - **Windows**: `C:\Program Files\Common Files\VST3\`
 - **macOS**: `~/Library/Audio/Plug-Ins/VST3/`
 
-## License
-
-[Your License Here]
-
 ## Credits
 
-Built with [JUCE](https://juce.com/)
+Built with [JUCE](https://juce.com/) and [ClaudeAI](https://claude.ai/)
