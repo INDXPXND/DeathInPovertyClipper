@@ -11,6 +11,13 @@ Audio clipper VST3 plugin built with JUCE for true Soundcloud rappers.
 - Dry/Wet mix
 - Modern GUI with custom rotary sliders
 
+## Fast Installation
+
+Unzip archive DeathInPovertyClipper.zip to your VST3 folder:
+
+- **Windows**: `C:\Program Files\Common Files\VST3\`
+- **macOS**: `~/Library/Audio/Plug-Ins/VST3/`
+
 ## Building
 
 ### Requirements
