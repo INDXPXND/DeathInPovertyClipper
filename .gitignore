@@ -1,0 +1,66 @@
+# ========================================
+# JUCE Build Files (НЕ загружать на GitHub)
+# ========================================
+
+# Сгенерированные файлы Projucer
+JuceLibraryCode/
+Builds/
+
+# Visual Studio
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+.vs/
+x64/
+x86/
+Debug/
+Release/
+ipch/
+*.log
+
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Xcode (macOS)
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+*.swp
+*~.nib
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# ========================================
+# ЧТО ЗАГРУЖАТЬ (это будет в репозитории)
+# ========================================
+# Source/              ← Ваш исходный код
+# *.jucer              ← Файл проекта Projucer
+# CMakeLists.txt       ← Если используете CMake
+# README.md            ← Описание проекта
+# LICENSE              ← Лицензия
